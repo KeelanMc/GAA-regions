@@ -1,5 +1,5 @@
 # GAA-regions
-Analysis of the spatial distributions of Hurling and Gaelic Football clubs in Ireland
+Analysis of the spatial distributions of Hurling and Gaelic Football clubs in Ireland. 
 
 By scrapping data from gaapitchlocator.net and Wikipedia using beautiful soup in Pyhton, I created maps of the succesful GAA clubs in R.
 
