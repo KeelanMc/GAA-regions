@@ -1,0 +1,109 @@
+Club,Latitude,Longitude,Countytitles
+Kilkenny_Ballyhale Shamrocks,52.469273,-7.203421,15.0
+Kilkenny_Clara,52.646032,-7.145416,3.0
+Kilkenny_Dicksboro,52.657331,-7.272713,2.0
+Kilkenny_Dunnamaggin,52.499667,-7.291821,1.0
+Kilkenny_Glenmore,52.342786,-7.058737,5.0
+Kilkenny_Graigue Ballycallan,52.618084,-7.421157,2.0
+Kilkenny_James Stephens,52.643431,-7.244448,4.0
+Kilkenny_O'Loughlin Gaels,52.658047,-7.2363,4.0
+Kilkenny_St. Martins,52.78906,-7.120407,1.0
+Kilkenny_Tullaroan,52.66078,-7.444063,1.0
+Kilkenny_Young Irelands Gowran,52.63165,-7.053094,2.0
+Cork_Blackrock National,51.892967,-8.418853,5.0
+Cork_Carbery Rangers,51.58455,-9.024721,1.0
+Cork_Carrigtwohill,51.908418,-8.265356,1.0
+Cork_Charleville Rovers,52.352309,-8.678303,1.0
+Cork_Erins Own,51.914474,-8.364297,3.0
+Cork_Glen Rovers Hurling,51.916033,-8.465475,3.0
+Cork_Midleton,51.920291,-8.175952,5.0
+Cork_Na Piarsaigh,51.919007,-8.4952,3.0
+Cork_Newtownshandrum,52.345624,-8.769257,4.0
+Cork_Sarsfields,51.928476,-8.387074,4.0
+Cork_St. Finbarrs,51.877498,-8.498558,5.0
+Tipperary_Boherlahan Dualla,52.569376,-7.895163,3.0
+Tipperary_Borris Ileigh,52.750016,-7.953908,12.0
+Tipperary_Cappawhite,52.578074,-8.165604,3.0
+Tipperary_Cashel King Cormacs,52.509829,-7.877165,3.0
+Tipperary_Clonoulty Rossmore,52.611941,-7.958055,9.0
+Tipperary_Drom Inch,52.719275,-7.913289,3.0
+Tipperary_Holycross Ballycahill,52.649036,-7.876006,3.0
+Tipperary_Kildangan,52.929492,-8.24371,3.0
+Tipperary_Kilruane McDonaghs,52.94121,-8.041756,3.0
+Tipperary_Loughmore Castleiney,52.77012,-7.788202,9.0
+Tipperary_Moycarkey Borris,52.641573,-7.739852,6.0
+Tipperary_Mullinahone CJ Kickhams,52.514282,-7.501527,3.0
+Tipperary_Eire Og Nenagh,52.867161,-8.214474,3.0
+Tipperary_Thurles Sarsfields,52.682659,-7.823156,24.0
+Tipperary_Toomevara,52.8499,-8.041037,33.0
+Limerick_Adare,52.563478,-8.807065,5.0
+Limerick_Ahane,52.691413,-8.51522,3.0
+Limerick_Bruree,52.422124,-8.649791,1.0
+Limerick_Ballybrown,52.63613,-8.731899,2.0
+Limerick_Claughaun,52.658899,-8.59472,1.0
+Limerick_Garryspillane,52.433684,-8.415602,1.0
+Limerick_Kilmallock,52.39783,-8.574572,6.0
+Limerick_Na Piarsaigh,52.670358,-8.669887,6.0
+Limerick_Patrickswell,52.598473,-8.713725,14.0
+Limerick_South Liberties,52.600826,-8.604484,1.0
+Dublin_Ballyboden St. Endas,53.288879,-6.316999,21.0
+Dublin_Craobh Chiaráin,53.408745,-6.199604,12.0
+Dublin_Erins Isle,53.384397,-6.298535,3.0
+Dublin_Faughs,53.296273,-6.32952,12.0
+Dublin_Kilmacud Crokes,53.287115,-6.200248,9.0
+Dublin_O'Tooles,53.39743,-6.184348,18.0
+Dublin_St. Vincents,53.373972,-6.228733,12.0
+Dublin_UCD,53.306089,-6.229345,9.0
+Dublin_Cuala,53.223045,-6.12123,24.0
+Wexford_Buffers Alley,52.56338,-6.328415,8.0
+Wexford_Cloughbawn,52.466959,-6.731111,1.0
+Wexford_Faythe Harriers,52.349261,-6.485656,2.0
+Wexford_Naomh Eanna Gorey,52.681137,-6.274277,1.0
+Wexford_Oulart The Ballagh,52.506459,-6.387273,13.0
+Wexford_Rathnure St. Annes,52.497681,-6.765711,8.0
+Wexford_Shelmaliers,52.387276,-6.42697,2.0
+Wexford_St. Martins,52.289655,-6.490839,4.0
+Galway_Abbeyknockmoy,53.438237,-8.726792,1.0
+Galway_Castlegar,53.276582,-8.976924,1.0
+Galway_Clarinbridge,53.230958,-8.876181,2.0
+Galway_Gort,53.044574,-8.835325,4.0
+Galway_Killimordaly,53.302326,-8.623441,1.0
+Galway_Kiltormer,53.23614,-8.275065,3.0
+Galway_Liam Mellows,53.271219,-9.021857,1.0
+Galway_Loughrea,53.202826,-8.551462,1.0
+Galway_Portumna,53.088663,-8.218127,6.0
+Galway_Sarsfields,53.301704,-8.490629,6.0
+Galway_St. Marys Athenry,53.324478,-8.78491,8.0
+Galway_St. Thomas,53.141442,-8.705356,5.0
+Galway_Turloughmore,53.367447,-8.904521,1.0
+Offaly_St. Brendans Park,53.091698,-7.908504,12.0
+Offaly_Coolderry,53.013376,-7.844367,6.0
+Offaly_Kilcormac Killoughey,53.176061,-7.732015,4.0
+Offaly_Kinnitty,53.100969,-7.709849,3.0
+Offaly_Lusmagh,53.172955,-8.018528,1.0
+Offaly_Seir Kieran,53.073925,-7.800003,4.0
+Offaly_St. Rynaghs,53.189052,-7.975302,8.0
+Offaly_Tullamore,53.280403,-7.493153,1.0
+Clare_Ballyea,52.786536,-9.028852,2.0
+Clare_Clarecastle,52.816335,-8.971463,7.0
+Clare_Clonlara,52.719853,-8.557878,1.0
+Clare_Cratloe,52.695542,-8.760835,2.0
+Clare_Crusheen,52.936095,-8.897585,2.0
+Clare_Eire Og,52.831917,-8.991242,2.0
+Clare_Feakle,52.923348,-8.651068,1.0
+Clare_Kilmaley,52.813881,-9.095376,2.0
+Clare_Newmarket on Fergus,52.760392,-8.888669,2.0
+Clare_Sixmilebridge,52.744333,-8.778205,13.0
+Clare_St. Josephs Doora Barefield,52.84253,-8.905599,3.0
+Clare_Tulla,52.86171,-8.744897,1.0
+Clare_Wolfe Tones na Sionna,52.704007,-8.868853,2.0
+Waterford_Ballyduff Upper,52.141805,-8.052034,1.0
+Waterford_Mount Sion,52.260541,-7.133963,2.0
+Waterford_Tallow,52.094398,-7.997977,2.0
+Laois_Borris In Ossory,52.940835,-7.61801,2.0
+Laois_Camross,52.996842,-7.562188,11.0
+Laois_Castletown,52.980418,-7.50304,8.0
+Laois_Clonad,52.993736,-7.297282,1.0
+Laois_Clough Ballacolla,52.881627,-7.450892,3.0
+Laois_Portlaoise,53.025413,-7.266415,9.0
+Laois_Rathdowney Errill,52.853176,-7.586821,6.0
