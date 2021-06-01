@@ -7,4 +7,4 @@ The intial data must be scrapped using the python script "Scarping club data.ipy
 
 The required r libraries are contained in "0_source.R"
 The maps can then be created using "MapMaking.R"
-The spatial statistical analysis can be created using "Moran_plots.R", "Random_dist_test.R" and "Spatial_model_fit.R"
+The spatial statistical analysis can be replicated using "Moran_plots.R", "Random_dist_test.R" and "Spatial_model_fit.R"
